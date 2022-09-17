@@ -1,7 +1,7 @@
 ### Cocktail Finder
 
 React educational project according to the program John Shmilgha
-[The CocktailDB](https://nodeca.github.io/pica/demo/) - React educational project according to the program John Shmilgha
+[The CocktailDB](cocktails-finder-react-app.netlify.app) - React educational project according to the program John Shmilgha
 
 Using
 
