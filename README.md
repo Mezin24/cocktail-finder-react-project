@@ -1,15 +1,15 @@
-#### React Router Fix
+### Cocktail Finder
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+React educational project according to the program John Shmilgha
+[The CocktailDB](https://nodeca.github.io/pica/demo/) - React educational project according to the program John Shmilgha
 
-#### CRA Fix
+Using
 
-```
+- useState
+- useEffect
+- useContext
+- Routing (React-router-dom 5)
 
-"build": "CI= react-scripts build",
+#### API
 
-```
-
-```sh
-npm install react-router-dom@6
-```
+[![thecocktaildb](https://www.thecocktaildb.com/images/logo.png)](https://www.thecocktaildb.com/api.php)
